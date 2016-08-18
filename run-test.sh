@@ -22,3 +22,5 @@ do_test 3 2
 do_test 4 3
 do_test 5 5
 do_test 12 144
+
+echo "All tests passed"
